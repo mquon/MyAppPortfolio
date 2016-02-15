@@ -5,6 +5,9 @@
 # Files for the Dalvik VM
 *.dex
 
+# Directory-based project format - see http://stackoverflow.com/questions/11968531/what-to-gitignore-from-the-idea-folder
+.idea/
+
 # Java class files
 *.class
 
